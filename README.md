@@ -10,7 +10,7 @@ a465a349320f24fe7861f121d6f2b039-2072348721.us-east-1.elb.amazonaws.com
 
 The backend API returns the list of movies successfully.
 
-##Github Repo url
+## Github Repo url
 
 https://github.com/NitheeshMVS/udacity-build-cicd-project
 
