@@ -1,3 +1,25 @@
+## Deployment Verification
+
+### Frontend Application
+a0b564cefebdc4782833ce63828b7ecc-750653536.us-east-1.elb.amazonaws.com   
+
+The frontend displays the list of movies and allows users to view movie details.
+
+### Backend API
+a465a349320f24fe7861f121d6f2b039-2072348721.us-east-1.elb.amazonaws.com
+
+The backend API returns the list of movies successfully.
+
+## CI/CD Workflows
+
+This project includes four GitHub Actions workflows:
+
+- Frontend Continuous Integration
+- Frontend Continuous Deployment
+- Backend Continuous Integration
+- Backend Continuous Deployment
+
+
 # Movie Picture Pipeline
 
 You've been brought on as the DevOps resource for a development team that manages a web application that is a catalog of Movie Picture movies. They're in dire need of automating their development workflows in hopes of accelerating their release cycle. They'd like to use Github Actions to automate testing, building and deploying their applications to an existing Kubernetes cluster.
