@@ -12,7 +12,7 @@ The backend API returns the list of movies successfully.
 
 ## Github Repo url
 
-https://github.com/NitheeshMVS/udacity-build-cicd-project
+https://github.com/NitheeshMVS/cd12354-Movie-Picture-Pipeline
 
 ## CI/CD Workflows
 
